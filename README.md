@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [chemzqm/parallel](http://github.com/chemzqm/parallel). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/chemzqm-parallel`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Build Status](https://secure.travis-ci.org/chemzqm/parallel.png)](http://travis-ci.org/chemzqm/parallel)
 [![Coverage Status](https://coveralls.io/repos/chemzqm/parallel/badge.png?branch=master)](https://coveralls.io/r/chemzqm/parallel?branch=master)
 
